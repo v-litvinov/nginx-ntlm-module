@@ -1,0 +1,10 @@
+{
+  "name": "ntlm-test-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mock NTLM upstream that tracks per-TCP identity for nginx-ntlm-module tests",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
